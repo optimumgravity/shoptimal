@@ -1,0 +1,20 @@
+{
+    "name": "optimumgravity/shoptimal",
+    "description": "Laravel shopping cart",
+    "keywords": ["laravel", "shop", "cart"],
+    "license": "MIT",
+    "authors": [{
+        "name": "Travis Johnson",
+        "email": "travis@optimumgravity.com"
+    }],
+    "require": {
+        "php": ">=5.6.4",
+        "illuminate/support": ">=5.0"
+    },
+    "require-dev": {
+        "mockery/mockery": "~0.9",
+        "phpunit/phpunit": "~4.0",
+        "symfony/var-dumper": "2.7.*@dev"
+    },
+    "minimum-stability": "dev"
+}
